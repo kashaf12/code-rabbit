@@ -1,4 +1,4 @@
-class Nod {
+class N {
     constructor(val) {
         this.val = val;
         this.next = null;
